@@ -1,4 +1,4 @@
-var num = 7;
+var num = 35;
 var count =0;
 for(var i=1;i<num;i++){
 
